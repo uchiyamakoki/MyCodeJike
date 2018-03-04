@@ -1,0 +1,13 @@
+package com.jikexueyuan.ch04;
+
+public class Test04 {
+
+	public static void main(String[] args) {
+		char c='a';
+		do{
+			System.out.println(c+"£º"+(int)c);
+			c++;
+		}while(c<='z');
+	}
+
+}
