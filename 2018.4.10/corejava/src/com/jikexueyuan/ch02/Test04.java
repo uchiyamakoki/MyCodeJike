@@ -1,0 +1,14 @@
+package com.jikexueyuan.ch02;
+
+public class Test04 {
+
+	public static void main(String[] args) {
+		{String name="’≈∑…";
+		System.out.println(name);
+		}
+		 String name="Õı∑∆";
+		 System.out.println(name);
+	}
+   
+    
+}
